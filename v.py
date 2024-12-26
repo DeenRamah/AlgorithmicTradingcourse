@@ -14,3 +14,4 @@ plt.plot(data['EMA_20'], label='20-Day EMA', color='green')
 plt.title('SMA and EMA Example')
 plt.legend()
 plt.show()
+//will display, i will be displaying more
