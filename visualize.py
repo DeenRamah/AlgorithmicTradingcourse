@@ -5,3 +5,4 @@ plt.title('AAPL Closing Prices')
 plt.xlabel('Date')
 plt.ylabel('Price')
 plt.show()
+//it will plot on the 
